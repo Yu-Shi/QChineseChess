@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/pieces">
+        <file alias="b_jiangshuai">images/b_jiangshuai.png</file>
+        <file alias="b_ju">images/b_ju.png</file>
+        <file alias="b_ma">images/b_ma.png</file>
+        <file alias="b_pao">images/b_pao.png</file>
+        <file alias="b_shi">images/b_shi.png</file>
+        <file alias="b_xiang">images/b_xiang.png</file>
+        <file alias="b_zubing">images/b_zubing.png</file>
+        <file alias="r_zubing">images/r_bing.png</file>
+        <file alias="r_jiangshuai">images/r_jiangshuai.png</file>
+        <file alias="r_ju">images/r_ju.png</file>
+        <file alias="r_ma">images/r_ma.png</file>
+        <file alias="r_pao">images/r_pao.png</file>
+        <file alias="r_shi">images/r_shi.png</file>
+        <file alias="r_xiang">images/r_xiang.png</file>
+        <file alias="jiangjun">check.mp3</file>
+    </qresource>
+</RCC>
